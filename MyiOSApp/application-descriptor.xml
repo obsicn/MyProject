@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nativeIOSApp bundleId="myiosapp" id="myiosapp" platformVersion="7.1.0.00.20160206-1558" version="1.0" xmlns="http://www.worklight.com/native-ios-descriptor">
+    <displayName>MyiOSApp</displayName>
+    <description>MyiOSApp</description>
+    <accessTokenExpiration>3600</accessTokenExpiration>
+    <userIdentityRealms />
+    <licenseAppType>APPLICATION</licenseAppType>
+    <targetCategory>UNDEFINED</targetCategory>
+</nativeIOSApp>

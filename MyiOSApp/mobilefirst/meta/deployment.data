@@ -1,0 +1,16 @@
+#Deployment data.
+# Tue Feb 23 2016 12:48:53 GMT+0800 (CST)
+app.displayname=MyiOSApp
+app.build.time=1456202933840
+app.target.category=UNDEFINED
+app.license.type=APPLICATION
+platform.version=7.1.0.00.20160206-1558
+app.ios.bundle.id=myiosapp
+app.version=1.0
+app.environment=iOSnative
+app.token.expiration=3600
+app.user.identity.realms=
+app.description=MyiOSApp
+app.native=true
+app.authenticity.obscuredata=23.507-9.852-31.807
+app.id=myiosapp

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nativeAndroidApp id="com_example_myang_myandroidapp" platformVersion="7.1.0.00.20160206-1558" version="1.0" xmlns="http://www.worklight.com/native-android-descriptor">
+    <displayName>MyAndroidApp</displayName>
+    <description>MyAndroidApp</description>
+    <packageName>com.example.myang.myandroidapp</packageName>
+    <publicSigningKey />
+    <accessTokenExpiration>3600</accessTokenExpiration>
+    <userIdentityRealms />
+    <licenseAppType>APPLICATION</licenseAppType>
+    <targetCategory>UNDEFINED</targetCategory>
+</nativeAndroidApp>
