@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/myang/workspaces/MyAndroidApp/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/myang/workspaces/MyAndroidApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/myang/workspaces/MyProject/MyAndroidApp/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/myang/workspaces/MyProject/MyAndroidApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

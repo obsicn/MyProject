@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/myang/workspaces/MyAndroidApp/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/myang/workspaces/MyAndroidApp/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/myang/workspaces/MyProject/MyAndroidApp/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/myang/workspaces/MyProject/MyAndroidApp/app/src/main/res/menu/menu_main.xml"
+    }
+]
